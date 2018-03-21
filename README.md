@@ -1,0 +1,8 @@
+# DoubanCrawler
+一个很基础的基于Java URLConnection和RegExp的豆瓣爬虫
+
+Spider类爬取网页，提取数据
+Book类作为Model存储数据
+ExcelWrite类将数据导出为Excel，借助于Apache POI实现
+
+提取的数据结果参考Result.xlsx文件
